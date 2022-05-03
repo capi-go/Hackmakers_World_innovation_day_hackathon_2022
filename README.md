@@ -100,6 +100,7 @@ Launch media campaign to raise awareness
 
 
 Future Iterations
+
 In the current iteration we have used an external plugin for the chatroom as proof of concept. In the next iteration we would like to build our custom chatroom. 
 Also, we will customize the webpages built on Apex to make them more user friendly. 
 We will also incorporate other Oracle technologies including OCI, ABD, along with compute storage and OAC for better analytics in the system.
