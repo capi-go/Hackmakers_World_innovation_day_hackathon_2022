@@ -118,7 +118,7 @@ In the current iteration we have used an external plugin for the chatroom as pro
 Also, we will customize the webpages built on Apex to make them more user friendly. 
 We will also incorporate other Oracle technologies including OCI, ABD, along with compute storage and OAC for better analytics in the system.
 
-The Team
+Team Confluence*
 Team Captain: Nnamse Akpan 
 Project Manager: Namrah Rehman
 Business Development: Kelly Silvera
@@ -126,11 +126,15 @@ UX/UI Design: Qasid Ali
 Developer: Mubeen Kodvavi
 Data Engineer: Umer Siddiqui
 Data Scientist: Anas Siddiqui
-The Mentors
+
+The Mentors*
 Jason Lowe
 Deepthi Gandham
 Fauzi Tahir 
 K Y Lim
 And many more.
-The Sponsors
+
+
+The Sponsors*
+![Sponsors](https://user-images.githubusercontent.com/19424104/166404761-41cc9ef6-1042-4955-8963-f8b862ca9850.PNG)
 
