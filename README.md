@@ -34,6 +34,7 @@ The first 72 hours after a major natural disaster represents a crucial race agai
 80 percent of donations are made to support disaster relief after people are moved by images in the media (Pew Research Center)
 60 percent items sent to support disaster victims are discarded (UPS post disaster report)
 Only 20 cents in every dollar collected helps people in need (Red Cross)
+
 Proposed Solution
 Angel Donor Portal facilitates partnership between donors, suppliers and relief workers at the disaster scene. It’s an opportunity to put UN Sustainable Development Goal number 17 to action by creating partnerships to support emergency relief efforts when disasters occur.
 It is a shared platform where organizations and first responder agencies from the local, national and international level can work together in the best interests of helping those in need. 
@@ -41,7 +42,9 @@ It supports efficient resource distribution by providing line of sight to the pu
 A global map pings with requests from agencies
 Members of the global community are able to donate directly to help with the cost of the request
 Agencies receive direct funding from members of the public to support relief efforts
+
 Block Diagram
+![](images/9e913987ad74414c88a314b29ef1e1f5-0001.jpg)
 
 Site Map
 ![](images/d8f447a2858247c080e46edeaf009c38-0001.jpg)
@@ -71,26 +74,6 @@ SOM - $49 million
 Is the average amount donated by the public after a natural disaster
 
 This is according to a 2021 report by the Disasters Emergency Committee
-Competition
-
-
-
-+
-_
-FundRazr
-Best reputation
-
-
-
-Subscription required for advanced professional tools 
-GoFundMe
-No platform fee
-
-
-Need US, UK, Australia or Canada registration for charity campaign
-Mightycause
-Advanced team and event management tools
-Need US registration for charity campaign
 
 
 Business Model
@@ -131,10 +114,10 @@ Data Engineer: Umer Siddiqui
 Data Scientist: Anas Siddiqui
 
 The Mentors*
-Jason Lowe
-Deepthi Gandham
-Fauzi Tahir 
-K Y Lim
+Jason Lowe,
+Deepthi Gandham,
+Fauzi Tahir, 
+K Y Lim,
 And many more.
 
 
